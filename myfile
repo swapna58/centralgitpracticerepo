@@ -1,4 +1,6 @@
 
 hello sai 
 good afternoon
-bin/bash: wq: command not found
+bin/bash: wq
+: command not found
+2nd line from mumbai
